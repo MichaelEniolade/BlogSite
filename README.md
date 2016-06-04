@@ -14,7 +14,7 @@ and install it on your local machine
 Once that's all set, clone this repository:
 
 ```sh
-https://github.com/MichaelEniolade/Blog_Site.git
+https://github.com/MichaelEniolade/BlogSite.git
 ```
 
 Power on Google App Engine and run the project you added, Go to http://localhost:8080 on your browser or on any port set for the project on App Engine
