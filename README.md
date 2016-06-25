@@ -20,3 +20,7 @@ https://github.com/MichaelEniolade/BlogSite.git
 Power on Google App Engine and run the project you added, Go to http://localhost:8080 on your browser or on any port set for the project on App Engine
 to see the blog app running
 
+## Resources
+
+Udacity, Stackoverflow, w3Schools, and google searches
+
